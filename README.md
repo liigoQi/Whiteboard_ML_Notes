@@ -19,3 +19,8 @@
 ### 3 线性回归
 [浅谈「正定矩阵」和「半正定矩阵」](https://zhuanlan.zhihu.com/p/44860862)
 
+### 4 线性分类
+[【神经网络】线性模型非线性模型，感知机与神经网络](https://blog.csdn.net/qq_32742009/article/details/81384837)
+[求最优值，梯度下降算法 or 偏导等于0 ?](https://blog.csdn.net/SkullSky/article/details/106364622?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242)
+[神经网络中，为何不直接对损失函数求偏导后令其等于零，求出最优权重，而要使用梯度下降法（迭代）计算权重？](https://www.zhihu.com/question/267021131)
+[线性判别分析（LDA）实现二分类的思路](https://blog.csdn.net/ustbbsy/article/details/78855851)
