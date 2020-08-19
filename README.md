@@ -5,6 +5,11 @@
 ## 参考
 [大佬提供的板书和讲义](https://github.com/shuhuai007/Machine-Learning-Session)
 
+### 数学补充：理解矩阵乘法的各种观点
+[带你深入理解矩阵乘法](https://blog.csdn.net/zh_94/article/details/81571092?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+
+[线性代数（机器学习基础课程）-- 台大李宏毅 05、14](https://www.bilibili.com/video/BV1WT4y137M1)
+
 ### 2 数学基础
 [为什么样本方差（sample variance）的分母是 n-1？](https://www.zhihu.com/question/20099757)
 
