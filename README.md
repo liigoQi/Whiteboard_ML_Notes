@@ -32,3 +32,8 @@
 [神经网络中，为何不直接对损失函数求偏导后令其等于零，求出最优权重，而要使用梯度下降法（迭代）计算权重？](https://www.zhihu.com/question/267021131)
 
 [线性判别分析（LDA）实现二分类的思路](https://blog.csdn.net/ustbbsy/article/details/78855851)
+
+### 9 概率图模型
+[概率图模型(2)——马尔科夫随机场](https://juejin.im/post/6844903929197625352)
+
+[概率图模型](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/16_CRF.html)
