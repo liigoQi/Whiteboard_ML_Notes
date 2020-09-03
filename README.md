@@ -33,6 +33,9 @@
 
 [线性判别分析（LDA）实现二分类的思路](https://blog.csdn.net/ustbbsy/article/details/78855851)
 
+### 5 降维
+[数据降维](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/10_PCA.html)
+
 ### 9 概率图模型
 [概率图模型(2)——马尔科夫随机场](https://juejin.im/post/6844903929197625352)
 
